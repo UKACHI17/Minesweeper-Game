@@ -1,0 +1,1 @@
+This document provides an overview of the Minesweeper game developed in Python using the Pygame library. Minesweeper is a classic puzzle game where the objective is to clear a rectangular board containing hidden "mines" without detonating any of them. This project demonstrates the basic implementation of the game, including mine placement, number calculation, and revealing cells.
